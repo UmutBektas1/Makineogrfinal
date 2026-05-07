@@ -1,0 +1,29 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# OS generated files
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Büyük veri ve model dosyaları (isteğe bağlı olarak kaldırılabilir, ancak GitHub 100MB sınırına takılabilir)
+# data/raw/
+# models/*.pkl
